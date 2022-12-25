@@ -106,7 +106,7 @@ header a:hover {
         0deg,
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
-    ) ,url(/src/img/hero-backgroud-image.jpg);
+    ) ,url(src/img/hero-backgroud-image.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -153,7 +153,7 @@ header a:hover {
         0deg,
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
-    ) ,url(/src/img/lab-background-image.jpg);
+    ) ,url(src/img/lab-background-image.jpg);
 }
 
 .card:nth-child(2) {
@@ -161,7 +161,7 @@ header a:hover {
         0deg,
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
-    ) ,url(/src/img/amb-background-img.jpg);
+    ) ,url(src/img/amb-background-img.jpg);
 }
 
 .card:nth-child(3) {
@@ -169,7 +169,7 @@ header a:hover {
         0deg,
         rgba(0,0,0,0.5),
         rgba(0,0,0,0.5)
-    ) ,url(/src/img/radio-background-image.jpg);
+    ) ,url(src/img/radio-background-image.jpg);
 }
 
 #more-content .container{
@@ -253,7 +253,7 @@ header a:hover {
     }
 
     #news .img-container {
-        background-image: url("/src/img/news-img.jpg");
+        background-image: url("src/img/news-img.jpg");
         background-size: cover;
         background-position: center center;
         height: 400px;
